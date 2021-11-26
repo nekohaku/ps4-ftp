@@ -1,12 +1,12 @@
-//#define DEBUG_SOCKET
-#define DEBUG_IP "192.168.2.2"
-#define DEBUG_PORT 9023
+#define DEBUG_SOCKET
+#define DEBUG_IP "192.168.001.218"
+#define DEBUG_PORT 19023
 
 #include "ps4.h"
 
 #include "ftps4.h"
 
-#define FTP_PORT 1337
+#define FTP_PORT 31337
 
 int run;
 int decrypt;
