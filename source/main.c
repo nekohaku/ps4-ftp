@@ -6,7 +6,7 @@
 
 #include "ftps4.h"
 
-#define FTP_PORT 31337
+#define FTP_PORT 2121
 
 int run;
 int decrypt;
