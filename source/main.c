@@ -1,4 +1,4 @@
-#define DEBUG_SOCKET
+//#define DEBUG_SOCKET
 #define DEBUG_IP "192.168.001.218"
 #define DEBUG_PORT 19023
 
